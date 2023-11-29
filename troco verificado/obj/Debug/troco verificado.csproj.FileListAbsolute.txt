@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\troco verificado\troco verificado\bin\Debug\troco verificado.exe.config
+C:\temp\ws-vs2019\troco verificado\troco verificado\bin\Debug\troco verificado.exe
+C:\temp\ws-vs2019\troco verificado\troco verificado\bin\Debug\troco verificado.pdb
+C:\temp\ws-vs2019\troco verificado\troco verificado\obj\Debug\troco verificado.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\troco verificado\troco verificado\obj\Debug\troco verificado.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\troco verificado\troco verificado\obj\Debug\troco verificado.exe
+C:\temp\ws-vs2019\troco verificado\troco verificado\obj\Debug\troco verificado.pdb
